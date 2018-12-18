@@ -1,4 +1,5 @@
 %出口质量流量%
+%根据速度和空隙率计算%
 clear;clc
 rhop=930;
 [filename,pathname]=uigetfile('*.*','选择数据文件');

@@ -1,4 +1,4 @@
-%时均轴向空隙率分布%
+%时均轴向空隙率分布（压力降）%
 clear;clc;
 rho_s=930;rho_g=1.1795;g=9.81;
 [filename,pathname]=uigetfile('*.*','选择数据文件');
