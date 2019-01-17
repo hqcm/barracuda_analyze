@@ -1,4 +1,5 @@
 %时均+高度平均轴向空隙率分布%
+%由实验给出的空隙率来进行高度平均%
 clear;clc;
 rho_s=930;rho_g=1.1795;g=9.81;
 [filename,pathname]=uigetfile('*.*','选择数据文件');

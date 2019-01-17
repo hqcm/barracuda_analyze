@@ -1,4 +1,5 @@
 %时均+高度平均轴向空隙率分布%
+%由实验给出的空隙率来进行高度平均%
 clear;clc;
 [filename,pathname]=uigetfile('*.*','选择数据文件');
 if (isequal(filename,0)||isequal(filename,0))
